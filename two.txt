@@ -1,1 +1,2 @@
 this is my 2nd git text file
+i changed something
