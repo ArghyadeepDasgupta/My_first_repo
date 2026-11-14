@@ -1,3 +1,7 @@
 this is my 2nd git text file
 i changed something
+
  i changed once again in difference branch
+
+again i changed something( for conflict concept)
+
